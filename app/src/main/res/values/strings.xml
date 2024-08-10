@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCodeReader</string>
+    <string name="qr_text">You are connected to:</string>
+</resources>
